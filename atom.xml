@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Nebucom | SaaS in Belgium]]></title>
+  <link href="http://Nebucom.github.io/atom.xml" rel="self"/>
+  <link href="http://Nebucom.github.io/"/>
+  <updated>2014-01-22T11:08:17+01:00</updated>
+  <id>http://Nebucom.github.io/</id>
+  <author>
+    <name><![CDATA[The Nebucom Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://Nebucom.github.io/blog/2014/01/22/first-post/"/>
+    <updated>2014-01-22T10:56:40+01:00</updated>
+    <id>http://Nebucom.github.io/blog/2014/01/22/first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
