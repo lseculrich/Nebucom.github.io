@@ -8,8 +8,7 @@ rvm:
 before_script:
   - git config --global user.name "NickBoucart"
   - git config --global user.email "nboucart@gmail.com"
-  - export REPO_URL="https://$GH_TOKEN@github.com/$GH_REPO.git"
-  - echo $REPO_URL
+  - export REPO_URL="https://$GIT_TOKEN@github.com/$GH_REPO.git"
   - bundle exec rake setup_github_pages[$REPO_URL]
 script:
   - bundle exec rake generate
