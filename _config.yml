@@ -98,3 +98,74 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+#prose, online editor
+prose:
+  rooturl: "source"
+  metadata:
+    source/_posts/events:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "event"
+      - name: "title"
+        field:
+          element: "text"
+          value: "Title"
+      - name: "comments"
+        field:
+          label: "Allow comments"
+          element: "checkbox"
+          value: false
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "event"
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: true
+      - name: "event-date"
+        field:
+          label: "Event Date"
+          element: "text"
+          placeholder: "2014-02-11"
+      - name: "start-time"
+        field:
+          label: "Start Time"
+          element: "text"
+          placeholder: "10:00"
+      - name: "end-time"
+        field:
+          label: "End Time"
+          element: "text"
+          value: "12:00"
+      - name: "location"
+        field:
+          label: "Location"
+          element: "text"
+          value: "Diamant Building Brussels<br/>A. Reyerslaan 80<br/>1030 Brussels"
+    source/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          value: "Title"
+      - name: "comments"
+        field:
+          label: "Allow comments"
+          element: "checkbox"
+          value: true
+      - name: "categories"
+        field:
+          element: "text"
+          value: "misc"
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: true

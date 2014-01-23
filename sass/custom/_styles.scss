@@ -27,3 +27,10 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 // Add a little horizontal space in dt elements
 .dl-horizontal dt { width: 135px; }
+
+//center the element
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
