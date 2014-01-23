@@ -9,6 +9,7 @@ before_script:
   - git config --global user.name "NickBoucart"
   - git config --global user.email "nboucart@gmail.com"
   - export REPO_URL="https://$GH_TOKEN@github.com/$GH_REPO.git"
+  - echo $REPO_URL
   - bundle exec rake setup_github_pages[$REPO_URL]
 script:
   - bundle exec rake generate
@@ -17,4 +18,4 @@ after_script:
 env:
   global:
   - GH_REPO="Nebucom/Nebucom.github.io"
-  - secure: "NwwM5iszi3BlRAqgY4NvvRAdQYJDtu6GmYLi0eGU3FsA8BI6G1ol+B4CzUXKlUz/SuCMqXU42oSbXcywuIM5TuV1mEzKO972F5DenKeP3DKM82XS/I/XjGYaKs037MJsPQOkkbsszmKu+EHy2ILG/a2VN3eFm6K4M15MhjJCyNE="
+  - secure: "F2Y/yDpjkiTTQyRe7iNKlUhyMVkvBfZU8j+BLVSU0oZRiC2FSlzempIEYaV4lXKNLeMeInlMslPLmBpX0dpHCdOZXVafEGe7CjY+TfsePjUKixcA2gzCc9RZaQbHxVCSfnMxYGFoG2e4Br27PhrAk/ww5NpaulcqvgmtOSpWZ9A="
