@@ -102,7 +102,6 @@ facebook_like: false
 #prose, online editor
 prose:
   rooturl: "source"
-  siteurl: "http://nebucom.github.io"
   metadata:
     source/_posts:
       - name: "layout"
