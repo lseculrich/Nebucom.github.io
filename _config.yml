@@ -168,4 +168,4 @@ prose:
         field:
           label: "Location"
           element: "textarea"
-          placeholder: "Diamant Building Brussels<br/>A. Reyerslaan 80<br/>1030 Brussels"
+          value: "Diamant Building Brussels<br/>A. Reyerslaan 80<br/>1030 Brussels"
