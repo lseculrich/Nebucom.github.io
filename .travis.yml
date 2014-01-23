@@ -17,3 +17,4 @@ after_script:
 env:
   global:
   - GH_REPO="Nebucom/Nebucom.github.io"
+  - secure: "NwwM5iszi3BlRAqgY4NvvRAdQYJDtu6GmYLi0eGU3FsA8BI6G1ol+B4CzUXKlUz/SuCMqXU42oSbXcywuIM5TuV1mEzKO972F5DenKeP3DKM82XS/I/XjGYaKs037MJsPQOkkbsszmKu+EHy2ILG/a2VN3eFm6K4M15MhjJCyNE="
