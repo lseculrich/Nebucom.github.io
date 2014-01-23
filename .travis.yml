@@ -1,5 +1,19 @@
+---
+branches:
+  only:
+  - source
 language: ruby
 rvm:
-  - 2.0.0
   - 1.9.3
-script: bundle exec rake install; bundle exec rake generate
+before_script:
+  - git config --global user.name "NickBoucart"
+  - git config --global user.email "nboucart@gmail.com"
+  - export REPO_URL="https://$GH_TOKEN@github.com/$GH_REPO.git"
+  - bundle exec rake setup_github_pages[$REPO_URL]
+script:
+  - bundle exec rake generate
+after_script:
+  - bundle exec rake deploy
+env:
+  global:
+  - GH_REPO="Nebucom/Nebucom.github.io"
