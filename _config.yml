@@ -139,7 +139,7 @@ prose:
       - name: "comments"
         field:
           label: "Allow comments"
-          element: "checkbox"
+          element: "hidden"
           value: false
       - name: "categories"
         field:
@@ -164,9 +164,9 @@ prose:
         field:
           label: "End Time"
           element: "text"
-          value: "12:00"
+          placeholder: "12:00"
       - name: "location"
         field:
           label: "Location"
-          element: "text"
-          value: "Diamant Building Brussels<br/>A. Reyerslaan 80<br/>1030 Brussels"
+          element: "textarea"
+          placeholder: "Diamant Building Brussels<br/>A. Reyerslaan 80<br/>1030 Brussels"
