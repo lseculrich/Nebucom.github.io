@@ -102,7 +102,31 @@ facebook_like: false
 #prose, online editor
 prose:
   rooturl: "source"
+  siteurl: "http://nebucom.github.io"
   metadata:
+    source/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          value: "Title"
+      - name: "comments"
+        field:
+          label: "Allow comments"
+          element: "checkbox"
+          value: true
+      - name: "categories"
+        field:
+          element: "text"
+          value: "misc"
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: true
     source/_posts/events:
       - name: "layout"
         field:
@@ -146,26 +170,3 @@ prose:
           label: "Location"
           element: "text"
           value: "Diamant Building Brussels<br/>A. Reyerslaan 80<br/>1030 Brussels"
-    source/_posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          value: "Title"
-      - name: "comments"
-        field:
-          label: "Allow comments"
-          element: "checkbox"
-          value: true
-      - name: "categories"
-        field:
-          element: "text"
-          value: "misc"
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: true
