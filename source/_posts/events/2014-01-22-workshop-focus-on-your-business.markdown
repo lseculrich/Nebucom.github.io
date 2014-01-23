@@ -28,3 +28,22 @@ On 11 February  Sirris is bringing a host of Belgian cloud specialists to Brusse
 3. Demos & Q/A
 
 Tasteful finish: sandwiches 
+
+### Practical information
+Date: <strong>{{ page.event-date | date: "%-d %B %Y" }}</strong> from <strong>{{ page.start-time }} to {{ page.end-time }}</strong>.</p>
+
+<h3>Location</h3>
+<p>{{page.location}}</p>
+
+<h3>Participation fee</h3>
+
+<p>Sirris and Agoria members: € 50 (ex VAT)<br/>
+Non-members:  € 75 (ex VAT) </p>
+<h3>Registration</h3>
+
+<p>You can register <a href="http://www.sirris.be/defaultform.aspx?ekfrm=16012&langtype=1033">here</a>. 
+
+<p>These workshops are organised together with the Nebucom project, supported by IWT.</p>
+
+</p>Contact Sirris: Philippe Thiran, tel. +32 491 34 53 94 <br/>
+Contact Agoria: Bart Meert, tel. +32 2 706 79 95   </p>
