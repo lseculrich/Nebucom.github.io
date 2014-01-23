@@ -168,4 +168,7 @@ prose:
         field:
           label: "Location"
           element: "textarea"
-          value: "Diamant Building Brussels<br/>A. Reyerslaan 80<br/>1030 Brussels"
+          value: |
+            Diamant Building Brussels
+            A. Reyerslaan 80
+            1030 Brussels
