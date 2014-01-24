@@ -1,5 +1,5 @@
 <div class="row">
-  <div class="span4 offset2">
+  <div class="span3 offset1">
     <h3>recent posts</h3>
     <ul class="recent_posts">
       {% for post in site.posts limit: site.recent_posts %}
@@ -11,7 +11,16 @@
     <h3><a href="/blog/archives">Archives</a></h3>
     {% include custom/asides/found_on.html %}
   </div>
-  <div class="span4 offset1">
+  <div class="span3 offset1">
+    <h3>Partners</h3>
+    <ul class="recent_posts">
+      <li><a href="/partners/agoria.html">Agoria</a></li>
+      <li><a href="/partners/iminds.html">IMinds</a></li>
+      <li><a href="/partners/lsec.html">LSec</a></li>
+      <li><a href="/partners/sirris.html">Sirris</a></li>
+    </ul>
+  </div>
+  <div class="span3 offset1">
     {% include asides/twitter.html %}
   </div>
 </div>
