@@ -1,15 +1,19 @@
 ---
+categories: event
+comments: false
 layout: event
 title: "Workshop - Focus on your business, leave your IT infrastructure to the cloud"
-date: 2014-01-22 14:15:13 +0100
-event-date: 2014-02-11
-end-date: 2014-02-11
-start-time: "10:00"
-end-time: "12:00 (light lunch foreseen)"
-location: "Diamant Building Brussels<br/>A. Reyerslaan 80<br/>1030 Brussels"
-comments: false
-categories: event
+date: "2014-01-22 14:15:13 +0100"
+"event-date": 
+  - 2014-02-11T00:00:00.000Z
+  - "Tue Feb 11 2014 01:00:00 GMT+0100 (CET)"
+"end-date": {}
+"start-time": "10:00"
+"end-time": "12:00 (light lunch foreseen)"
+location: Diamant Building Brussels A. Reyerslaan 80 1030 Brussels
+published: true
 ---
+
 During our fifth and final workshop you will find this out in the series ‘Focus on your business, leave your IT infrastructure to the cloud’. After international players such as Amazon, Rackspace, IBM and CSC, we are now focusing on domestic contributors. Curious as to how IaaS Belgian providers find solutions? Come to our last IaaS workshop on 11 February and ask the experts yourself!    
 <!-- more -->
 
@@ -30,20 +34,20 @@ On 11 February  Sirris is bringing a host of Belgian cloud specialists to Brusse
 Tasteful finish: sandwiches 
 
 ### Practical information
-Date: <strong>{{ page.event-date | date: "%-d %B %Y" }}</strong> from <strong>{{ page.start-time }} to {{ page.end-time }}</strong>.</p>
+Date: ****{{ page.event-date | date: "%-d %B %Y" }} from ****{{ page.start-time }} to {{ page.end-time }}.
 
-<h3>Location</h3>
-<p>{{page.location}}</p>
+### Location
+{{page.location}}
 
-<h3>Participation fee</h3>
+### Participation fee
 
-<p>Sirris and Agoria members: € 50 (ex VAT)<br/>
-Non-members:  € 75 (ex VAT) </p>
-<h3>Registration</h3>
+Sirris and Agoria members: € 50 (ex VAT)
+Non-members:  € 75 (ex VAT)
 
-<p>You can register <a href="http://www.sirris.be/defaultform.aspx?ekfrm=16012&langtype=1033">here</a>. 
+### Registration
+You can register [here](http://www.sirris.be/defaultform.aspx?ekfrm=16012&langtype=1033). 
 
-<p>These workshops are organised together with the Nebucom project, supported by IWT.</p>
+These workshops are organised together with the Nebucom project, supported by IWT.
 
-</p>Contact Sirris: Philippe Thiran, tel. +32 491 34 53 94 <br/>
-Contact Agoria: Bart Meert, tel. +32 2 706 79 95   </p>
+Contact Sirris: Philippe Thiran, tel. +32 491 34 53 94
+Contact Agoria: Bart Meert, tel. +32 2 706 79 95
