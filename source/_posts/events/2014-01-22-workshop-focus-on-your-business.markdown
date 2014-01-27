@@ -4,9 +4,7 @@ comments: false
 layout: event
 title: "Workshop - Focus on your business, leave your IT infrastructure to the cloud"
 date: "2014-01-22 14:15:13 +0100"
-"event-date": 
-  - 2014-02-11T00:00:00.000Z
-  - "Tue Feb 11 2014 01:00:00 GMT+0100 (CET)"
+"event-date": "2014-02-11"
 "end-date": {}
 "start-time": "10:00"
 "end-time": "12:00 (light lunch foreseen)"
