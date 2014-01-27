@@ -10,7 +10,7 @@ description: "Sirris - Collective Center of the Belgian Technology Industry"
 ---
 
 ![SIRRIS_logo_baseline_RGB_600x202.png](/images/partners/SIRRIS_logo_baseline_RGB_600x202.png)
-## Driving industry by technology
+
 Sirris is the collective centre of the Belgian technological industry. We help companies in the implementation of technological innovations, enabling them to strengthen their competitive position over the long-term. Our experts visit companies on site, offer them technological advice, launch innovation paths, and provide guidance until they reach the implementation phase. It is our aim to find concrete solutions to the real challenges facing Belgian entrepreneurs.
 For the Belgian technological industry.
 
