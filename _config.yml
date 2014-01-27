@@ -102,7 +102,7 @@ facebook_like: false
 #prose, online editor
 prose:
   rooturl: "source"
-  media: "/images"
+  media: "source/images"
   metadata:
     source/_posts:
       - name: "layout"
