@@ -13,5 +13,5 @@ footer: false
 [www.iminds.be](http://www.iminds.be)
 
 #### Contact: Bruno Volckaert
-![Bruno Volckaert](/images/partners/brunovolckaert.jpeg)
+<img src="/images/partners/brunovolckaert.jpeg" alt="Bruno Volckaert" class="pull-right" />
 Bruno Volckaert is a postdoc in the Internet Based Communication Networks and Services research group (IBCN), which is part of Ghent University and affiliated with iMinds. The title of his PhD is "Architectures and Algorithms for Network and Service Aware Grid Resource Management". Currently he is involved in multiple national (iMinds ICON, IWT SBO / VIS) and international (FP7 and upcoming Horizon 2020) research projects. His research interests are object oriented programming, distributed system design, cloud computing and service oriented architectures. The last four years he was research lead for ICON projects TRACK and RAILS dealing with software and network advances for distributed railway systems and responsible for IBCN in the Smarter Media in Flanders (SMIF) cloud project.
