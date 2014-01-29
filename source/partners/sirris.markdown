@@ -25,3 +25,5 @@ has more than 120 technology experts spread over 6 locations in the 3 regions.
 realises a turnover of 20 million euros
 involves businesses in more than 100 European projects.
 has more than 2,400 member companies.
+
+[www.sirris.be](http://www.sirris.be)
