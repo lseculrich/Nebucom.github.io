@@ -15,7 +15,7 @@ published: true
 During our fifth and final workshop you will find this out in the series ‘Focus on your business, leave your IT infrastructure to the cloud’. After international players such as Amazon, Rackspace, IBM and CSC, we are now focusing on domestic contributors. Curious as to how IaaS Belgian providers find solutions? Come to our last IaaS workshop on 11 February and ask the experts yourself!    
 <!-- more -->
 
-Two independent Belgian cloud computing experts – *Frederik Dekens (Skyscrapers)* and *Daniel Bartz (CommodIT)* – will tell you about what IaaS has to offer today. They will also provide an overview of the IaaS solutions presented in the previous four sessions, specifically for the Belgian market. It is a perfect opportunity if you cannot attend our workshops and wonder what the best cloud provider is for your objectives!
+Two independent Belgian cloud computing experts – *Frederik Dekens (Skyscrapers)* and *Daniel Bartz (ComodIT)* – will tell you about what IaaS has to offer today. They will also provide an overview of the IaaS solutions presented in the previous four sessions, specifically for the Belgian market. It is a perfect opportunity if you cannot attend our workshops and wonder what the best cloud provider is for your objectives!
 
 For this meeting Sirris and Agoria have recruited speakers from leading Belgian cloud service companies such as Combell, People & Technology and Stone Internet. They will take turns unveiling their vision and ideas on powerful cloud infrastructure in 10 minutes’ time. 
 
