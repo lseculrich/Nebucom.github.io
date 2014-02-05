@@ -34,3 +34,15 @@ article.archive-article-format { box-shadow: none; padding: 0; }
      margin-left: auto;
      margin-right: auto;
 }
+
+$navbarHeight: 60px;
+.navbar {
+	height: $navbarHeight;
+}
+.navbar-inner {height: $navbarHeight;}
+
+.navbar .nav > li > a {
+  $elementHeight: 18px;
+  padding: (($navbarHeight - $elementHeight) / 2 - 1) 10px (($navbarHeight - $elementHeight) / 2 + 1);
+  line-height: 19px;
+}
